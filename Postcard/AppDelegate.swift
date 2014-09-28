@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Postcard
 //
-//  Created by Penthesilea Mukian on 26.09.14.
-//  Copyright (c) 2014 Penthesilea Mukian. All rights reserved.
+//  Created by Penthesilea on 26.09.14.
+//  Copyright (c) 2014 Penthesilea. All rights reserved.
 //
 
 import UIKit
